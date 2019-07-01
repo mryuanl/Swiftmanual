@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/jsj-10/Desktop/fdm/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
